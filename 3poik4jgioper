@@ -1,0 +1,48 @@
+Korte samenvatting TOPdesk,
+
+
+In het veld ‘Naam’ type je de achternaam van de klant in. Geen voornaam en geen tussenvoegsels. Dan vindt hij de naam vanzelf met de vestiging.
+In het blauwe kader type je de vraag van de klant. Compleet met programma, apparatuur, software of ruimte. Alles wat van belang is voor de behandelaar moet daarin staan.
+In het kader daaronder typ je de terugkoppeling aan de klant. Altijd beginnen met: ’Geachte…..’. Bij gebruikersvragen typ je daar de oplossing. Bij storingen en wijzigingsverzoeken typ je dat je de melding hebt ontvangen en hebt doorgestuurd naar juiste afdeling/persoon. Vertel dat zij zo snel mogelijk bij hen langskomen. Noem nooit een tijd. Bij afwijsincidenten vertel je dat je deze melding niet in behandeling mag nemen volgens het SLA en maak even excuses daarvoor. Sluit af met ‘Met vriendelijke groet’. En natuurlijk jouw naam.
+De ‘Korte omschrijving’ geeft in grote lijnen aan waar het om gaat. Welk softwarepakket of welke hardware. Meer niet! Bijvoorbeeld: Filter Excel. Verhuizing PC. Storing kassa’s. Dus niet: Filter toepassen op een kolom in Excel, Verhuizing van PC, monitor, toetsenbord en muis van ruimte A naar ruimte B. Kassa’s werken niet meer, geven blauw scherm. Als de behandelaar maar weet waar het in grote lijnen om gaat.
+Soort binnenkomst is afhankelijk hoe je de incidenten krijgt. Kan per e-mail, telefoon of persoonlijk.
+Het soort melding is belangrijk. 
+1.	Gebruikersvragen gaan over inhoudelijke vragen over de Office pakketten of besturingssystemen.
+2.	Wijzigingsverzoeken zijn verhuizingen, printen op andere printer in de organisatie, Nieuwe updates. Kortom, iets veranderen van wat je al hebt.
+3.	Storingen gebruik je als een klant niet verder kan werken.
+4.	Aanvraag is een nieuwe PC of printer bestellen.
+5.	Klachten
+6.	Security
+7.	Wensen of complimenten gebruiken we eigenlijk niet.
+Categorie en subcategorie spreekt voor zich. Welke software of hardware gaat het over?
+
+Object/Ruimte kan je overslaan. Daar doen we niets mee.
+Planning is belangrijk!
+P1 (High) is een hoge prioriteit met een doorlooptijd van 4 uur.
+P2 (Medium)  is middel met een doorlooptijd van 2 dagen
+P3 (Low) is lage prioriteit met een doorlooptijd van 1 week of 5 dagen.
+Storingen is P1 (High)als de klanten niet kunnen werken.
+Als 1 persoon niet werken is het ook een storing, maar ‘medium’ P2 prioriteit.
+De rest is P3 of Low.
+Streefdatum rekent hij zelf uit en we zetten niet op On Hold.
+
+
+Afhandeling:
+Behandelaarsgroep doen we alleen bij Escaleren. Anders ben jij de behandelaar. Leverancier gebruiken we niet. Als er iets besteld zou moeten worden wel, maar dat gebeurt niet op het examen.
+Status is wel belangrijk.
+Als je geregistreerd kiest, betekent het dat je het wel in het systeem hebt gezet, maar er nog niets mee hebt gedaan. Dat is natuurlijk niet de bedoeling op het examen.
+Als je antwoord hebt gegeven (Gebruikersvragen) is de melding Afgehandeld.
+Als je Escaleert, wordt de melding doorgezet naar de tweedelijns. Dan is de status In behandeling. (storingen en wijzigingsverzoeken)
+Als je het incident afwijst, moet je de status op Afgewezen zetten. (Privé-apparatuur en aanvraag nieuwe printer of computer/laptop)
+Afgemeld doe je alleen als je niets met de melding gaat doen of akkoord hebt van de klant dat het werkt. (Afwijsincidenten, Afgehandelde gebruikersvragen, Telefoongesprek en Baliegesprek)
+Extra informatie:
+Escaleren 
+Dat doe je bij Storingen, Security, Klachten en Wijzigingsverzoeken.
+In de terugkoppeling vertel je dat, maar vergeet niet op Escaleren te klikken bovenin het scherm. Als je daar niet op hebt geklikt, is de melding niet doorgezet naar de tweedelijns. 
+Na het klikken op Escaleren, verschijnen er twee extra velden bij de planning. Impact en Urgentie. Let op de prioriteit en de doorlooptijd, nadat je die hebt ingevuld. Die kunnen automatisch wijzigen. Zet de Impact en Urgentie dan zo neer, zodat de Prioriteit en de Doorlooptijd goed blijven staan.
+Al heb je in de terugkoppeling alles goed staan, maar vergeet je op Escaleren te klikken, is het hele incident onvoldoende.
+Oplossing
+Gebruikersvragen moet je altijd zelf GOED oplossen en uittypen in het terugkoppelingsveld. Geen link of video’s plaatsen in de terugkoppeling. Google voor de juiste oplossing. Als de oplossing fout is, is het incident direct onvoldoende.
+Afwijzen
+Als je afwijst, vergeet dan niet de status op afwijzen te zetten. Als je dat vergeet is het incident direct onvoldoende.
+
